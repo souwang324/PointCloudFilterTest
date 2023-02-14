@@ -1,7 +1,8 @@
 # Python - Environment Setting Tutorial
 https://www.youtube.com/watch?v=g3ZhFwn7dv0&t=10s
 # Result Demo
-Test for VTK Filter - vtkElevationFilter, vtkDensifyPoints, vtkExtractSurface, vtkOctTree \
+Test for VTK Filter - vtkElevationFilter, vtkDensifyPoints, \
+vtkExtractSurface, vtkOctTree, PolyDataPointSampler, Triangulate \
 1 ElevationFilter - cat - https://www.youtube.com/watch?v=3WAcSoc_azM \
 2 ElevationFilter - horse -  https://www.youtube.com/watch?v=k6n7_7nSfVk \
 3 ElevationFilter - lioness -  https://www.youtube.com/watch?v=vVd4lTjGutk \
@@ -23,4 +24,4 @@ Test for VTK Filter - vtkElevationFilter, vtkDensifyPoints, vtkExtractSurface, v
 19 OctTree - michael - https://www.youtube.com/watch?v=JqTW0xBFXQ0 \
 20 OctTree - wolf - https://www.youtube.com/watch?v=6HMoz8Q7roI \
 21 PolyDataPointSampler - Torso - https://www.youtube.com/watch?v=g9Si32eGTbM \
-22  Triangulate- Torso - https://www.youtube.com/watch?v=2MOD8h4f6Y8
+22  Triangulate- Torso - https://www.youtube.com/watch?v=2MOD8h4f6Y8 
